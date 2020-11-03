@@ -175,4 +175,20 @@ Tag	Description
 <picture>	Defines a container for multiple image resources
 <svg>	Defines a container for SVG graphics
 
+# Audio / Video
+
+Tag	Description
+<audio>	Defines sound content
+<source>	Defines multiple media resources for media elements (<video>, <audio> and <picture>)
+<track>	Defines text tracks for media elements (<video> and <audio>)
+<video>	Defines a video or movie
+
+# Links
+
+Tag	Description
+<a>	Defines a hyperlink
+<link>	Defines the relationship between a document and an external resource (most used to link to style sheets)
+<nav>	Defines navigation links
+
+
 
