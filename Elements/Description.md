@@ -1,6 +1,6 @@
 # Description :
 
-# Tag	          # Description
+  Tag	            Description
 <!--...-->	Defines a comment
 <!DOCTYPE> 	Defines the document type
 <a>	Defines a hyperlink
@@ -135,7 +135,7 @@ Defines teletype text
 
 # For bare minimum :
 
-# Tag	          # Description
+ Tag	           Description
 <!DOCTYPE> 	Defines the document type
 <html>	Defines an HTML document
 <head>	Contains metadata/information for the document
