@@ -163,7 +163,16 @@ Tag	Description
 <datalist>	Specifies a list of pre-defined options for input controls
 <output>	Defines the result of a calculation
 
+# Images
 
-
+Tag	Description
+<img>	Defines an image
+<map>	Defines a client-side image map
+<area>	Defines an area inside an image map
+<canvas>	Used to draw graphics, on the fly, via scripting (usually JavaScript)
+<figcaption>	Defines a caption for a <figure> element
+<figure>	Specifies self-contained content
+<picture>	Defines a container for multiple image resources
+<svg>	Defines a container for SVG graphics
 
 
